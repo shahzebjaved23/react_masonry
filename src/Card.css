@@ -1,8 +1,26 @@
-.card{
-	width: 300px;
-	padding: 30px;
+.card-image{
+	width: inherit;
 }
 
-.card-image{
-	width: 300px;
+@media screen and (max-width: 3000px) {
+  .card{
+		width: 500px;
+		padding: 30px;
+	}
+
+}
+
+@media screen and (max-width: 992px) {
+  .card{
+		width: 300px;
+		padding: 30px;
+	}
+}
+
+
+@media screen and (max-width: 500px) {
+  .card{
+		width: 100px;
+		padding: 30px;
+	}
 }
