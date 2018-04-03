@@ -10,17 +10,47 @@
 
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1153px) {
   .card{
-		width: 300px;
+		width: 400px;
 		padding: 30px;
 	}
 }
 
 
-@media screen and (max-width: 500px) {
-  .card{
-		width: 100px;
+@media screen and (max-width: 1000px) {
+  	.card{
+		width: 370px;
+		padding: 30px;
+	}
+}
+
+
+@media screen and (max-width: 880px) {
+  	.card{
+		width: 700px;
+		padding: 30px;
+	}
+}
+
+
+@media screen and (max-width: 750px) {
+  	.card{
+		width: 600px;
+		padding: 30px;
+	}
+}
+
+@media screen and (max-width: 630px) {
+  	.card{
+		width: 420px;
+		padding: 30px;
+	}
+}
+
+@media screen and (max-width: 470px) {
+  	.card{
+		width: 300px;
 		padding: 30px;
 	}
 }
