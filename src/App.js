@@ -13,8 +13,8 @@ class App extends Component {
                     return (
                         <Card key={index} src={element.src} text={element.text} />
                     )
-                })}
-            </Masonry>
+                })}    
+            </Masonry>    
         );
     }
 }

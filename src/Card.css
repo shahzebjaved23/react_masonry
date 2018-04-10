@@ -5,44 +5,44 @@
 @media screen and (max-width: 3000px) {
   .card{
   		
-		width: 500px;
+		width: 350px;
 		padding: 30px;
 	}
 
 }
 
-@media screen and (max-width: 1153px) {
+@media screen and (max-width: 1255px) {
   .card{
-		width: 400px;
+		width: 300px;
 		padding: 30px;
 	}
 }
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1050px) {
   	.card{
-		width: 370px;
+		width: 376px;
 		padding: 30px;
 	}
 }
 
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 780px) {
   	.card{
-		width: 200px;
+		width: 294px;
 		padding: 30px;
 	}
 }
 
-
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 726px) {
   	.card{
-		width: 600px;
-		padding: 30px;
+		width: 294px;
+		padding: 10px;
 	}
 }
 
-@media screen and (max-width: 630px) {
+
+@media screen and (max-width: 650px) {
   	.card{
 		width: 420px;
 		padding: 30px;
